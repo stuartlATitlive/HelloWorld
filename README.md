@@ -1,5 +1,7 @@
 # HelloWorld
 
+Trunk Based
+
 ## Git Day1 
 1. Install the [CLI](https://git-scm.com/downloads/win)
 1. Create repo on github
