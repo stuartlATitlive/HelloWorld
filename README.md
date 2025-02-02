@@ -11,7 +11,7 @@
 1. Commit changes `git commit -m "discribe the change" 
 1. Push change to github `git push`
 
-**	ON GIT HUB **
+**ON GIT HUB**
 
 1. select pull request tab
 1. select `Compare & pull request` 
